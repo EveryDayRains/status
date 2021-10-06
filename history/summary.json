@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 211,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://apidonate.mrlivixx.me",
     "icon": "https://favicons.githubusercontent.com/apidonate.mrlivixx.me",
     "slug": "donate-page-api",
-    "status": "up",
-    "uptime": "17.62%",
-    "uptimeDay": "17.62%",
-    "uptimeWeek": "17.62%",
-    "uptimeMonth": "17.62%",
-    "uptimeYear": "17.62%",
-    "time": 558,
-    "timeDay": 558,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "down",
+    "uptime": "36.94%",
+    "uptimeDay": "36.94%",
+    "uptimeWeek": "36.94%",
+    "uptimeMonth": "36.94%",
+    "uptimeYear": "36.94%",
+    "time": 1273,
+    "timeDay": 1273,
+    "timeWeek": 1273,
+    "timeMonth": 1273,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2021-10-06": 2
+      "2021-10-06": 9
     }
   }
 ]
