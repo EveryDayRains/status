@@ -13,8 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
- # cname: status.mrlivixx.me
-  baseUrl: /status
+  cname: status.mrlivixx.me
+  #baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/54632865?v=4
   name: MrLivixx 
   introTitle: "Мониторинг работы сервисов"
