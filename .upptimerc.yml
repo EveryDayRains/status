@@ -19,6 +19,7 @@ status-website:
   name: MrLivixx 
   introTitle: "Мониторинг работы сервисов"
   introMessage: Мониторинг работы моих сервисов
+  theme: night 
   navbar:
     - title: Status
       href: /
