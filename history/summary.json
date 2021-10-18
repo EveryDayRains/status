@@ -22,9 +22,9 @@
     "url": "https://donate.mrlivixx.me",
     "icon": "https://favicons.githubusercontent.com/donate.mrlivixx.me",
     "slug": "donate-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 126,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-18": 0
+    }
   },
   {
     "name": "DonatePage API",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/apidonate.mrlivixx.me",
     "slug": "donate-page-api",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "96.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "95.88%",
+    "uptimeMonth": "96.02%",
+    "uptimeYear": "96.02%",
     "time": 636,
     "timeDay": 503,
     "timeWeek": 541,
