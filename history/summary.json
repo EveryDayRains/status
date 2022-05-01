@@ -22,7 +22,7 @@
     "url": "https://donate.mrlivixx.me",
     "icon": "https://favicons.githubusercontent.com/donate.mrlivixx.me",
     "slug": "donate-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1684,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2022-05-01": 0,
       "2022-04-16": 30
     }
   },
@@ -43,18 +44,18 @@
     "icon": "https://favicons.githubusercontent.com/apidonate.mrlivixx.me",
     "slug": "donate-page-api",
     "status": "down",
-    "uptime": "38.64%",
+    "uptime": "38.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.64%",
+    "uptimeYear": "38.48%",
     "time": 969,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 568,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2022-05-01": 131,
+      "2022-05-01": 1356,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
