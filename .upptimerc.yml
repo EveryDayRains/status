@@ -1,14 +1,14 @@
 # Change these first
-owner: MrLivixx # Your GitHub organization or username, where this repository lives
+owner: Livixx # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
   - name: Site
-    url: https://mrlivixx.me
+    url: https://livixx.me
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.mrlivixx.me
+  cname: status.livixx.me
   #baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/54632865?v=4
   name: MrLivixx 
@@ -21,9 +21,9 @@ status-website:
     - title: GitHub
       href: https://github.com/MrLivixx
     - title: Site
-      href: https://mrlivixx.me
+      href: https://livixx.me
     - title: Donate
-      href: https://donate.mrlivixx.me
+      href: https://d.livixx.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
