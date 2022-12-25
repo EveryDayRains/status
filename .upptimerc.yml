@@ -11,7 +11,7 @@ status-website:
   cname: status.livixx.me
   #baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/54632865?v=4
-  name: MrLivixx 
+  name: Livixx 
   introTitle: "Мониторинг работы сервисов"
   introMessage: Мониторинг работы моих сервисов
   theme: night 
