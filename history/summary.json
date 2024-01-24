@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/livixx.me.ico",
     "slug": "site",
     "status": "up",
-    "uptime": "88.35%",
+    "uptime": "88.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.97%",
+    "uptimeYear": "85.25%",
     "time": 163,
-    "timeDay": 112,
-    "timeWeek": 207,
-    "timeMonth": 183,
-    "timeYear": 168,
+    "timeDay": 305,
+    "timeWeek": 212,
+    "timeMonth": 186,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2023-10-30": 31,
       "2023-03-18": 1270,
@@ -69,8 +69,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   }
 ]
