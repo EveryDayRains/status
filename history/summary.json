@@ -4,8 +4,8 @@
     "url": "https://livixx.me",
     "icon": "https://icons.duckduckgo.com/ip3/livixx.me.ico",
     "slug": "site",
-    "status": "up",
-    "uptime": "89.27%",
+    "status": "down",
+    "uptime": "89.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 161,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2024-04-04": 0,
       "2023-10-30": 31
     }
   }
